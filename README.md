@@ -13,4 +13,4 @@
 <a href="https://certification.adobe.com/credential/verify/591e0df1-6ddc-48ba-be5e-b4385b39fa3d/linkedin" target="blank">Magento Certified Developer</a>
 <br />
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mousaayoubi&show_icons=true&locale=en&layout=compact" alt="mousaayoubi" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousaayoubi&theme=default" alt="mousaayoubi" /></p>
