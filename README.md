@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mousa Ayoubi</h1>
-<h3 align="center">Certified Magento 2 / Adobe Commerce Developer</h3>
-<h4 align="center">Building High-Performance, Scalable E-commerce Stores</h4>
-<h4 align="center">Full-Stack | API Integrations | Infrastructure Optimization</h4>
+<h3 align="center">Full Stack AI Developer</h3>
+<h4 align="center">Optimizing business processes using AI</h4>
+<h4 align="center">LLMs | Claude | RAGs | AI Agents | MCPs</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
