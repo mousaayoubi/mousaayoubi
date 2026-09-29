@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mousa Ayoubi</h1>
 <h3 align="center">Full Stack AI Developer</h3>
-<h4 align="center">Optimizing business processes using AI</h4>
+<h4 align="center">Optimizing Business Processes Using AI</h4>
 <h4 align="center">LLMs | Claude | RAGs | AI Agents | MCPs</h4>
 
 <h3 align="left">Connect with me:</h3>
